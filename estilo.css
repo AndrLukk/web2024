@@ -11,7 +11,8 @@
 }
 
 body {
-    background-color: rgb(228, 190, 223);
+    background-color: #4a4a4a;
+    color: #f0f0f0;
     font-family: "Audiowide", sans-serif;
 }
 
@@ -36,7 +37,7 @@ p {
 }
 
 a:link {
-    color: blue;
+    color: rgb(193, 206, 80);
     background-color: transparent;
     text-decoration: none;
 }
@@ -57,4 +58,8 @@ a:active {
     color: yellow;
     background-color: transparent;
     text-decoration: underline;
+}
+
+#header{
+    margin-top: 20px;
 }
